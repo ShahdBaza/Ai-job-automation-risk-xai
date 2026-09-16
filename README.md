@@ -41,3 +41,42 @@ An end-to-end Machine Learning and Explainable AI (XAI) system designed to estim
 ├── final_clean_ai_risk.csv         # Processed dataset with calculated risk scores & categories
 ├── requirements.txt           # Environment dependencies
 └── README.md                  # Project documentation
+
+
+⚙️ Key Features in Dashboard
+Interactive Search: Quick selection across hundreds of unique occupations.
+
+Risk Categorization: Dynamic scoring categorizing jobs into 🟢 Low Risk, 🟡 Medium Risk, and 🔴 High Risk.
+
+Economic & Skill Breakdown: Comparative metrics displaying compensation and foundational skill ratings out of 5.5.
+
+Decision Drivers: Automated identification of the top 3 risk drivers and top 3 protective factors per job.
+
+SHAP Waterfall Visualization: Visual breakdown of individual feature contributions pushing predictions away from the baseline.
+
+🚀 Getting Started
+1. Prerequisites
+Ensure Python 3.10+ is installed on your local environment.
+
+2. Clone the Repository
+Bash
+git clone [https://github.com/ShahdBaza/Ai-job-automation-risk-xai.git](https://github.com/ShahdBaza/Ai-job-automation-risk-xai.git)
+cd Ai-job-automation-risk-xai
+3. Install Dependencies
+Bash
+pip install -r requirements.txt
+4. Run the Application
+Bash
+streamlit run app.py
+🛠️ Built With
+Language: Python
+
+Data Processing: Pandas, NumPy
+
+Machine Learning: Scikit-Learn
+
+Explainability: SHAP
+
+Visualization: Matplotlib, Seaborn
+
+Interface & Hosting: Streamlit
