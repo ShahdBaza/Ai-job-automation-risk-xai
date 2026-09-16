@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://YOUR-APP-URL.streamlit.app](https://ai-job-automation-risk-xai-lzrzbpdbewyv3ub8pyappqc.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://YOUR-APP-URL.streamlit.app](https://ai-job-automation-risk-xai-lzrzbpdbewyv3ub8pyappqc.streamlit.app))
 # 🤖 AI Job Automation Risk & Explainability (XAI)
 
 An end-to-end Machine Learning and Explainable AI (XAI) system designed to estimate occupational automation susceptibility. The system couples robust regression models with **SHAP (SHapley Additive exPlanations)** to unpack model reasoning into interpretable, human-centric insights.
