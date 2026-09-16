@@ -36,8 +36,8 @@ An end-to-end Machine Learning and Explainable AI (XAI) system designed to estim
 
 ```text
 ├── app.py                     # Streamlit web application & visualization dashboard
-├── notebook.ipynb             # Research notebook (Data prep, EDA, training, SHAP analysis)
+├── Final_project_Ai_risk.ipynb    # Research notebook (Data prep, EDA, training, SHAP analysis)
 ├── real_model.pkl             # Serialized production Random Forest model
-├── predicted_jobs.csv         # Processed dataset with calculated risk scores & categories
+├── final_clean_ai_risk.csv         # Processed dataset with calculated risk scores & categories
 ├── requirements.txt           # Environment dependencies
 └── README.md                  # Project documentation
